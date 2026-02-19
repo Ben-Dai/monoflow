@@ -1,6 +1,6 @@
 # MONOFLOW PRIVACY POLICY
 
-**Effective Date: February 16, 2026**
+**Effective Date: February 19, 2026**
 
 MonoFlow ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use the MonoFlow application (the "App").
 
@@ -15,7 +15,7 @@ If you choose to use the built-in AI assistant feature, you must provide your ow
 All flowchart and diagram data you create is stored locally on your device as JSON files. We do not collect, access, transmit, or store your diagram data on any external server.
 
 **c) AI Conversations**  
-When you use the AI assistant feature, your messages and diagram context are sent directly from your device to the third-party AI service provider's API (e.g., Google Gemini) using your personal API key. These communications occur between your device and the provider's servers only. We do not operate any intermediary server, proxy, or relay. We do not have access to your conversations.
+When you use the AI assistant feature, your messages, diagram content (nodes, connections, labels), and any files you attach are sent directly from your device to the third-party AI service provider's API (e.g., Google Gemini) using your personal API key. These communications occur between your device and the provider's servers only. We do not operate any intermediary server, proxy, or relay. We do not have access to your conversations.
 
 ## 2. INFORMATION WE DO NOT COLLECT
 
