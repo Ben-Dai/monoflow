@@ -1,6 +1,6 @@
 # MONOFLOW PRIVACY POLICY
 
-**Effective Date: February 19, 2026**
+**Effective Date: February 20, 2026**
 
 MonoFlow ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use the MonoFlow application (the "App").
 
@@ -27,19 +27,13 @@ When you use the AI assistant feature, your messages, diagram content (nodes, co
 
 ## 3. THIRD-PARTY SERVICES
 
-The AI assistant feature connects directly to third-party AI service providers. We do not operate any intermediary server. Your use of these services is subject to each provider's own privacy policy and terms of service. Below is a non-exhaustive list of providers the App may support:
+The AI assistant feature connects directly to a third-party AI service provider. We do not operate any intermediary server, proxy, or relay. Your use of this service is subject to the provider's own privacy policy and terms of service.
 
-**a) Google Gemini API**  
-Google's use of data sent to the Gemini API is governed by Google's privacy policy and terms of service (https://policies.google.com/privacy).
+**a) Google Gemini API (currently supported)**
+When you use the AI assistant, your messages, diagram content, and any files you attach are sent directly from your device to Google's Gemini API using your personal API key. Google's use of this data is governed by Google's privacy policy and terms of service (https://policies.google.com/privacy).
 
-**b) OpenAI API**  
-OpenAI's use of data sent to its API is governed by OpenAI's privacy policy and terms of service (https://openai.com/policies/privacy-policy).
-
-**c) Anthropic API**  
-Anthropic's use of data sent to its API is governed by Anthropic's privacy policy and terms of service (https://www.anthropic.com/privacy).
-
-**d) Other Providers**  
-We may add support for additional AI service providers in the future. When you choose to use any provider, your data is sent directly from your device to that provider's servers using your personal API key. We encourage you to review each provider's privacy policy before use.
+**b) Future Providers**
+We may add support for additional AI service providers in future updates. When support for a new provider is introduced, this Privacy Policy will be updated accordingly, and you will be informed within the App before any data is sent to a new provider. We encourage you to review each provider's privacy policy before use.
 
 ## 4. DATA STORAGE AND SECURITY
 
