@@ -1,6 +1,6 @@
 # MONOFLOW PRIVACY POLICY
 
-**Effective Date: February 20, 2026**
+**Effective Date: February 24, 2026**
 
 MonoFlow ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use the MonoFlow application (the "App").
 
@@ -14,8 +14,10 @@ If you choose to use the built-in AI assistant feature, you must provide your ow
 **b) Diagram Data**  
 All flowchart and diagram data you create is stored locally on your device as JSON files. We do not collect, access, transmit, or store your diagram data on any external server.
 
-**c) AI Conversations**  
-When you use the AI assistant feature, your messages, diagram content (nodes, connections, labels), and any files you attach are sent directly from your device to the third-party AI service provider's API (e.g., Google Gemini) using your personal API key. These communications occur between your device and the provider's servers only. We do not operate any intermediary server, proxy, or relay. We do not have access to your conversations.
+**c) AI Conversations**
+When you use the AI assistant feature, the following data is sent directly from your device to the third-party AI service provider's API using your personal API key: your chat messages (text you type), your diagram content (node labels, connection labels, diagram structure), and any files you choose to attach (images, code files, text files). This data may include personal information you have entered. These communications occur between your device and the provider's servers only. We do not operate any intermediary server, proxy, or relay. We do not have access to your conversations.
+
+**The app displays a clear privacy consent notice and requires your explicit agreement before any data is sent to a third-party AI service.** You will be informed of what data is sent and to whom before you can use this feature.
 
 ## 2. INFORMATION WE DO NOT COLLECT
 
@@ -30,7 +32,7 @@ When you use the AI assistant feature, your messages, diagram content (nodes, co
 The AI assistant feature connects directly to a third-party AI service provider. We do not operate any intermediary server, proxy, or relay. Your use of this service is subject to the provider's own privacy policy and terms of service.
 
 **a) Google Gemini API (currently supported)**
-When you use the AI assistant, your messages, diagram content, and any files you attach are sent directly from your device to Google's Gemini API using your personal API key. Google's use of this data is governed by Google's privacy policy and terms of service (https://policies.google.com/privacy).
+When you use the AI assistant, the following data is sent directly from your device to Google's Gemini API (operated by Google LLC) using your personal API key: your chat messages, diagram content, and any files you attach. Google's use of this data is governed by Google's privacy policy and terms of service (https://policies.google.com/privacy). Google LLC maintains data protection standards in compliance with applicable privacy laws, including GDPR and CCPA, and provides protections for user data equivalent to those required by applicable law.
 
 **b) Future Providers**
 We may add support for additional AI service providers in future updates. When support for a new provider is introduced, this Privacy Policy will be updated accordingly, and you will be informed within the App before any data is sent to a new provider. We encourage you to review each provider's privacy policy before use.
