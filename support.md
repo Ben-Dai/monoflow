@@ -31,7 +31,7 @@ A: Yes. MonoFlow supports exporting diagrams to high-quality SVG format, which i
 **Q: Does MonoFlow require an internet connection?**  
 A: No. You can create, edit, and save diagrams entirely offline. An internet connection is only needed when using the AI assistant feature.
 
-**Q: Does MonoFlow collect my data?**
+**Q: Does MonoFlow collect my data?**  
 A: MonoFlow itself does not collect personal information, usage analytics, or telemetry of any kind. All diagram data is stored locally on your device. However, if you use the AI assistant, your chat messages and diagram content are sent directly from your device to the AI provider's servers (e.g., Google Gemini) using your personal API key. MonoFlow does not operate any intermediary server and has no access to this data. Please see our [Privacy Policy](privacy_policy.md) for full details.
 
 ### AI Assistant
