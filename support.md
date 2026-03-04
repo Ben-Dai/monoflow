@@ -31,8 +31,8 @@ A: Yes. MonoFlow supports exporting diagrams to high-quality SVG format, which i
 **Q: Does MonoFlow require an internet connection?**  
 A: No. You can create, edit, and save diagrams entirely offline. An internet connection is only needed when using the AI assistant feature.
 
-**Q: Does MonoFlow collect my data?**  
-A: No. All your diagram data is stored locally on your device. MonoFlow does not collect personal information, usage analytics, or telemetry of any kind. Please see our [Privacy Policy](privacy_policy.md) for full details.
+**Q: Does MonoFlow collect my data?**
+A: MonoFlow itself does not collect personal information, usage analytics, or telemetry of any kind. All diagram data is stored locally on your device. However, if you use the AI assistant, your chat messages and diagram content are sent directly from your device to the AI provider's servers (e.g., Google Gemini) using your personal API key. MonoFlow does not operate any intermediary server and has no access to this data. Please see our [Privacy Policy](privacy_policy.md) for full details.
 
 ### AI Assistant
 
@@ -66,8 +66,8 @@ A: Click the pan mode button (✋ hand icon) in the toolbar to enter pan mode, t
 **Q: How do I select multiple nodes?**  
 A: Click and drag on an empty area of the canvas to draw a selection box. You can also hold Shift and click individual nodes to add them to your selection.
 
-**Q: How do I undo or redo an action?**  
-A: Use the standard keyboard shortcuts: ⌘Z to undo and ⇧⌘Z to redo. MonoFlow maintains a full history of your actions.
+**Q: How do I undo or redo an action?**
+A: Use the standard keyboard shortcuts: ⌘Z to undo and ⇧⌘Z to redo. MonoFlow keeps a history of up to 30 recent actions. Older actions beyond this limit cannot be undone.
 
 **Q: What are Predefined Components?**  
 A: Predefined Components are special container nodes that allow you to group related nodes into collapsible, reusable sub-diagrams. They help organize complex flowcharts and keep your canvas clean.
@@ -143,4 +143,4 @@ We typically respond within 48 hours.
 
 ---
 
-*Last updated: February 16, 2026*
+*Last updated: February 28, 2026*
